@@ -1,4 +1,39 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Tyron Wytrykowski"
 theme = "nederburg"
+googleAnalytics = ""
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+
+[params]
+  slogan = "Front-end Developer & Graphic Designer"
+  description = "Describe your website" # meta description
+ author = "Göran Svensson"
+ authorLink = "https://appernetic.io/"
+ bio = [
+   "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+ ]
+  copyright = [
+    "&copy; 2018 Tyron Wytrykowski"
+  ]
+
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Resume"
+    url = "resume/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Get in touch"
+    url = "contact/"
+    weight = 3
+
+[params.social]
+  email         = "email@example.com"
