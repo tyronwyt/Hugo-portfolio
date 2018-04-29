@@ -1,1 +1,138 @@
 /* your styles go here */
+.main-title {
+  text-align: center;
+  color: #fff;
+  margin: 4em 0;
+}
+
+.main-title span {
+  color: #e06c75;
+}
+
+#blink {
+  color: #6494ed;
+  animation: blink .7s infinite;
+  font-size: 1.2em;
+}
+@keyframes blink {
+  from {color: #272727;}
+    to {color: #6494ed;}
+}
+
+.social-links {
+  margin-top: 25px;
+}
+.social-links ul {
+  list-style: none;
+  padding: 0px;
+}
+.social-links ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.social-links a,
+.social-links a:link {
+  color: #fff;
+}
+
+.social-links a:hover {
+  color: #e06c75;
+}
+
+.intro-wrapper {
+  height: 380px;
+}
+
+.intro {
+  padding: 2em 4em;
+  background: #fff;
+  position: absolute;
+  left: 0px;
+}
+
+.entry-content {
+  margin-bottom: 0px;
+}
+
+.excerpt-meta span:last-child span {
+  display: none;
+}
+
+.entry-meta span:last-child span {
+  display: none;
+}
+
+@media(max-width: 875px){
+  .intro-wrapper {
+    height: 450px;
+  }
+}
+
+@media(max-width: 745px){
+  .intro-wrapper {
+    height: 550px;
+  }
+}
+
+@media(max-width: 515px){
+  .intro-wrapper {
+    height: auto;
+  }
+  .intro {
+    position: relative;
+  }
+}
+
+@media print {
+  * {
+    color: black;
+  }
+
+  .top-navigation,
+  #toggle-navigation,
+  .entry-title,
+  .entry-meta,
+  .entry-header {
+    display: none;
+  }
+
+  h2 {
+    font-size: 18px;
+  }
+
+  h4 {
+    font-size: 14px;
+  }
+
+  h6 {
+    font-size: 12px;
+  }
+
+  h2, h4, h6 {
+    font-weight: bold;
+  }
+
+  p, li {
+    font-size: 12px;
+  }
+  #title-info {
+    color: black;
+  }
+  .site-title a:link, .site-title a:visited, .site-title a:hover, .site-title a:active, .site-title a:focus {
+    color: black;
+    opacity: 1;
+  }
+
+  .entry-content article {
+    float: right;
+    width: 70%;
+  }
+
+  .site-header {
+    padding-bottom: 0px;
+  }
+  .site-description {
+    color: black;
+  }
+}

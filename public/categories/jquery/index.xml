@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jquery on Tyron Wytrykowski</title>
+    <link>http://example.org/categories/jquery/</link>
+    <description>Recent content in Jquery on Tyron Wytrykowski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/jquery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>S&amp;P Global</title>
+      <link>http://example.org/post/sp_global/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>http://example.org/post/sp_global/</guid>
+      <description>&lt;p&gt;I was tasked to rebrand and develop a wide array of S&amp;amp;P Global&amp;rsquo;s marketing materials, ranging from email templates to lead generating landing pages.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
