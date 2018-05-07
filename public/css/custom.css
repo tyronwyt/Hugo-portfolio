@@ -145,3 +145,21 @@
     display: block;
   }
 }
+
+/* CONTACT STYLES */
+
+.form-button {
+  background-color: #272727;
+  color: #fff;
+  border-radius: 20px;
+  padding: 10px 30px;
+  transition: all .3s;
+  cursor: pointer;
+  outline: none;
+}
+
+.form-button:hover {
+  color: #333;
+  background-color: #fff;
+  border-color: #adadad;
+}
