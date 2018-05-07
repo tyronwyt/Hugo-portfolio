@@ -11,7 +11,7 @@ paginate = 5 #frontpage pagination
 
 [params]
   slogan = "Front-end Developer & Graphic Designer"
-  description = "Tyron Wytrykowski Front-end web developer portfolio. South African born, and living in London. I have a passion for all things digital and creatively solving problems." # meta description
+  description = "With over 8 years of experience conceptualising and designing various print and digital media, as well as 5 years experience developing, building and maintaining complex websites." # meta description
   copyright = [
     "&copy; 2018 Tyron Wytrykowski"
   ]
