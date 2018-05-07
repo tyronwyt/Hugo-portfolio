@@ -11,16 +11,7 @@ paginate = 5 #frontpage pagination
 
 [params]
   slogan = "Front-end Developer & Graphic Designer"
-  description = "Describe your website" # meta description
- author = "Göran Svensson"
- authorLink = "https://appernetic.io/"
- bio = [
-   "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
- ]
- sidebarAbout = [
-  "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-  "Originally from Toronto, currently based in London."
-]
+  description = "Tyron Wytrykowski Front-end web developer portfolio. South African born, and living in London. I have a passion for all things digital and creatively solving problems." # meta description
   copyright = [
     "&copy; 2018 Tyron Wytrykowski"
   ]
