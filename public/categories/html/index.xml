@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Html on Tyron Wytrykowski</title>
-    <link>http://example.org/categories/html/</link>
+    <link>https://flamboyant-kilby-331d5c.netlify.com/categories/html/</link>
     <description>Recent content in Html on Tyron Wytrykowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/html/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://flamboyant-kilby-331d5c.netlify.com/categories/html/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>JHA Recruitment</title>
-      <link>http://example.org/post/jha_recruitment/</link>
+      <link>https://flamboyant-kilby-331d5c.netlify.com/post/jha_recruitment/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>http://example.org/post/jha_recruitment/</guid>
+      <guid>https://flamboyant-kilby-331d5c.netlify.com/post/jha_recruitment/</guid>
       <description>&lt;p&gt;JHA Recruitment&amp;rsquo;s website was rebranded and designed and built to meet their growing needs.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Pure HTML &amp; CSS Ice-cream</title>
-      <link>http://example.org/post/html-css_ice-cream/</link>
+      <link>https://flamboyant-kilby-331d5c.netlify.com/post/html-css_ice-cream/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>http://example.org/post/html-css_ice-cream/</guid>
+      <guid>https://flamboyant-kilby-331d5c.netlify.com/post/html-css_ice-cream/</guid>
       <description>&lt;p&gt;These are the types of projects I end up creating when learning new techniques.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>S&amp;P Global</title>
-      <link>http://example.org/post/sp_global/</link>
+      <link>https://flamboyant-kilby-331d5c.netlify.com/post/sp_global/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>http://example.org/post/sp_global/</guid>
+      <guid>https://flamboyant-kilby-331d5c.netlify.com/post/sp_global/</guid>
       <description>&lt;p&gt;I was tasked to rebrand and develop a wide array of S&amp;amp;P Global&amp;rsquo;s marketing materials, ranging from email templates to lead generating landing pages.&lt;/p&gt;</description>
     </item>
     

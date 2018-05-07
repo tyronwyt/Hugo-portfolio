@@ -116,23 +116,32 @@
   p, li {
     font-size: 12px;
   }
-  #title-info {
+  #site-title {
     color: black;
   }
   .site-title a:link, .site-title a:visited, .site-title a:hover, .site-title a:active, .site-title a:focus {
     color: black;
     opacity: 1;
   }
-
-  .entry-content article {
-    float: right;
-    width: 70%;
-  }
-
   .site-header {
     padding-bottom: 0px;
   }
   .site-description {
     color: black;
+  }
+}
+
+/* RESUME STYLES */
+.personal-info {
+  display: none;
+}
+
+.personal-info p {
+  margin: 0px;
+}
+
+@media print {
+  .personal-info {
+    display: block;
   }
 }
