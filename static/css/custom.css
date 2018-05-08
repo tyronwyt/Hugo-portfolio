@@ -144,6 +144,12 @@
   .personal-info {
     display: block;
   }
+  #site-footer {
+    display: none;
+  }
+  #experience {
+    page-break-before: always;
+  }
 }
 
 /* CONTACT STYLES */
