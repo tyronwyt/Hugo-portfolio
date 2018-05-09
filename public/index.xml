@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tyron Wytrykowski</title>
-    <link>https://www.tyronw.com/</link>
+    <link>//www.tyronw.com/</link>
     <description>Recent content on Tyron Wytrykowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="https://www.tyronw.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//www.tyronw.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>S&amp;P Global</title>
-      <link>https://www.tyronw.com/post/sp_global/</link>
+      <link>//www.tyronw.com/post/sp_global/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://www.tyronw.com/post/sp_global/</guid>
+      <guid>//www.tyronw.com/post/sp_global/</guid>
       <description>&lt;p&gt;I was tasked to rebrand and develop a wide array of S&amp;amp;P Global&amp;rsquo;s marketing materials, ranging from email templates to lead generating landing pages.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>JHA Recruitment</title>
-      <link>https://www.tyronw.com/post/jha_recruitment/</link>
+      <link>//www.tyronw.com/post/jha_recruitment/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://www.tyronw.com/post/jha_recruitment/</guid>
+      <guid>//www.tyronw.com/post/jha_recruitment/</guid>
       <description>&lt;p&gt;JHA Recruitment&amp;rsquo;s website was rebranded and designed and built to meet their growing needs.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Pure HTML &amp; CSS Ice-cream</title>
-      <link>https://www.tyronw.com/post/html-css_ice-cream/</link>
+      <link>//www.tyronw.com/post/html-css_ice-cream/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://www.tyronw.com/post/html-css_ice-cream/</guid>
+      <guid>//www.tyronw.com/post/html-css_ice-cream/</guid>
       <description>&lt;p&gt;These are the types of projects I end up creating when learning new techniques.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Get in touch</title>
-      <link>https://www.tyronw.com/contact/</link>
+      <link>//www.tyronw.com/contact/</link>
       <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
       
-      <guid>https://www.tyronw.com/contact/</guid>
+      <guid>//www.tyronw.com/contact/</guid>
       <description>If you would like to get in touch you could contact me via:  Email: tyronwyt@gmail.com  Mobile: 077 0848 4048
 Alternatively you could use the form below:
     Submit   </description>
@@ -51,10 +51,10 @@ Alternatively you could use the form below:
     
     <item>
       <title>Resume</title>
-      <link>https://www.tyronw.com/resume/</link>
+      <link>//www.tyronw.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.tyronw.com/resume/</guid>
+      <guid>//www.tyronw.com/resume/</guid>
       <description>About me With over 8 years of experience conceptualising and designing various print and digital media, as well as 5 years experience developing, building and maintaining complex websites. I have helped companies reach their goals in various industries such as advertising, media and financial sectors. When I am not building websites and learning new things, I am tinkering away with my 3d printer and make things. Using my strong background in design, I enjoy bringing creativity into the development process and I am always keen to learn more as well as share my knowledge along the way.</description>
     </item>
     

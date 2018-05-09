@@ -1,4 +1,4 @@
-baseURL = "https://www.tyronw.com"
+baseURL = "//www.tyronw.com"
 publishDir = "public"
 languageCode = "en-us"
 title = "Tyron Wytrykowski"

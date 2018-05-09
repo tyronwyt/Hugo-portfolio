@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tyron Wytrykowski</title>
-    <link>https://www.tyronw.com/categories/</link>
+    <link>//www.tyronw.com/categories/</link>
     <description>Recent content in Categories on Tyron Wytrykowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.tyronw.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//www.tyronw.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Css</title>
-      <link>https://www.tyronw.com/categories/css/</link>
+      <link>//www.tyronw.com/categories/css/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://www.tyronw.com/categories/css/</guid>
+      <guid>//www.tyronw.com/categories/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Html</title>
-      <link>https://www.tyronw.com/categories/html/</link>
+      <link>//www.tyronw.com/categories/html/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://www.tyronw.com/categories/html/</guid>
+      <guid>//www.tyronw.com/categories/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jquery</title>
-      <link>https://www.tyronw.com/categories/jquery/</link>
+      <link>//www.tyronw.com/categories/jquery/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://www.tyronw.com/categories/jquery/</guid>
+      <guid>//www.tyronw.com/categories/jquery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Js</title>
-      <link>https://www.tyronw.com/categories/js/</link>
+      <link>//www.tyronw.com/categories/js/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://www.tyronw.com/categories/js/</guid>
+      <guid>//www.tyronw.com/categories/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sass</title>
-      <link>https://www.tyronw.com/categories/sass/</link>
+      <link>//www.tyronw.com/categories/sass/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://www.tyronw.com/categories/sass/</guid>
+      <guid>//www.tyronw.com/categories/sass/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wordpress</title>
-      <link>https://www.tyronw.com/categories/wordpress/</link>
+      <link>//www.tyronw.com/categories/wordpress/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://www.tyronw.com/categories/wordpress/</guid>
+      <guid>//www.tyronw.com/categories/wordpress/</guid>
       <description></description>
     </item>
     

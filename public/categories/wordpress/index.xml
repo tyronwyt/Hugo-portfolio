@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wordpress on Tyron Wytrykowski</title>
-    <link>https://www.tyronw.com/categories/wordpress/</link>
+    <link>//www.tyronw.com/categories/wordpress/</link>
     <description>Recent content in Wordpress on Tyron Wytrykowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="https://www.tyronw.com/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//www.tyronw.com/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>JHA Recruitment</title>
-      <link>https://www.tyronw.com/post/jha_recruitment/</link>
+      <link>//www.tyronw.com/post/jha_recruitment/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://www.tyronw.com/post/jha_recruitment/</guid>
+      <guid>//www.tyronw.com/post/jha_recruitment/</guid>
       <description>&lt;p&gt;JHA Recruitment&amp;rsquo;s website was rebranded and designed and built to meet their growing needs.&lt;/p&gt;</description>
     </item>
     
