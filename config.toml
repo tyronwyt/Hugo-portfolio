@@ -3,7 +3,7 @@ publishDir = "public"
 languageCode = "en-us"
 title = "Tyron Wytrykowski"
 theme = "nederburg"
-googleAnalytics = ""
+googleAnalytics = "UA-100856759-1"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 preserveTaxonomyNames = true
