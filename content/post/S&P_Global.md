@@ -3,6 +3,7 @@ date = "2016-11-05T19:41:01+05:30"
 title = "S&P Global"
 draft = false
 image = "img/portfolio/sp_global.jpg"
+imagesmall = "img/portfolio/sml/sp_global_sml.jpg"
 showonlyimage = false
 categories = [ "html", "css", "sass", "js", "jquery"]
 weight = 1

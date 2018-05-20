@@ -3,6 +3,7 @@ date = "2016-11-05T19:41:01+05:30"
 title = "JHA Recruitment"
 draft = false
 image = "img/portfolio/JHA-Recruitment.jpg"
+imagesmall = "img/portfolio/sml/JHA-Recruitment_sml.jpg"
 showonlyimage = false
 categories = [ "html", "css", "sass", "js", "wordpress"]
 weight = 2
