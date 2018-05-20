@@ -6,7 +6,7 @@ image = "img/portfolio/ice-cream.gif"
 imagesmall = "img/portfolio/sml/ice-cream_sml.gif"
 showonlyimage = false
 categories = [ "html", "css"]
-weight = 3
+weight = 4
 +++
 
 These are the types of projects I end up creating when learning new techniques.
