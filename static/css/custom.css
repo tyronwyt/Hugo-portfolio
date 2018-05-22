@@ -159,6 +159,9 @@
   #experience {
     page-break-before: always;
   }
+  #about-me {
+    margin-top: -20px
+  }
 }
 
 /* CONTACT STYLES */

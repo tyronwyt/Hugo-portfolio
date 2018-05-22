@@ -25,8 +25,16 @@ Adobe Creative Suite, Balsamiq wireframe mockups, UX and UI designing, Web Optim
 CTU Training Solutions | Graduated 2010 <br/>
 Graphic Design and Front-end Development
 
-**Online Courses** <br/>
-Udemy, Treehouse, CodeAcademy, FreeCodeCamp, Lynda.com
+**Online Courses**
+
+* Udemy
+  * The Web Developer Bootcamp | Colt Steele
+  * JavaScript: Understanding the weird parts | Anthony Alecea
+  * Modern React with Redux | Stephen Grider
+* Treehouse
+* CodeAcademy
+* FreeCodeCamp
+* Lynda.com
 
 **Certificates and Qualifications** <br/>
 CompTIA Certified Classroom Trainer <br/>
