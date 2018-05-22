@@ -32,7 +32,7 @@ paginate = 5 #frontpage pagination
     weight = 3
 
 [params.social]
-  email         = "email@example.com"
+  email         = "tyronwyt@gmail.com"
   twitter       = "https://twitter.com/TyronRGB"
   linkedin      = "https://www.linkedin.com/in/tyronwytrykowski/"
   github        = "https://github.com/tyronwyt"
