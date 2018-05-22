@@ -22,7 +22,7 @@
 
 <ul class="social-media-icons">
 
-        {{ with .Site.Params.social.facebook }}
+        {{- with .Site.Params.social.facebook -}}
 				<li>
 					<a class="facebook" target="_blank"
 					   href="{{ . }}" >
@@ -32,7 +32,7 @@
 				</li>
         {{end}}
 
-        {{ with .Site.Params.social.googleplus }}
+        {{- with .Site.Params.social.googleplus -}}
 				<li>
 					<a class="googleplus" target="_blank"
 					   href="{{ . }}" >
@@ -43,7 +43,7 @@
         {{end}}
 
 
-        {{ with .Site.Params.social.twitter }}
+        {{- with .Site.Params.social.twitter -}}
         <li>
         <a href="{{ . }}"  class="twitter" target="_blank">
             <i class="fa fa-twitter-square" title="twitter"></i>
@@ -52,7 +52,7 @@
         </li>
         {{end}}
 
-        {{ with .Site.Params.social.instagram }}
+        {{- with .Site.Params.social.instagram -}}
         <li>
         <a href="{{ . }}"  class="twitter" target="_blank">
             <i class="fa fa-instagram" title="instagram"></i>
@@ -61,7 +61,7 @@
         </li>
         {{end}}
 
-        {{ with .Site.Params.social.email }}
+        {{- with .Site.Params.social.email -}}
         <li>
         <a href="mailto:{{ . }}"  class="email">
             <i class="fa fa-envelope" title="email"></i>
@@ -70,7 +70,7 @@
         </li>
         {{end}}
 
-        {{ with .Site.Params.social.linkedin }}
+        {{- with .Site.Params.social.linkedin -}}
         <li>
         <a href="{{ . }}" class="linkedin" target="_blank">
             <i class="fa fa-linkedin" title="linkedin"></i>
@@ -79,7 +79,7 @@
         </li>
         {{end}}
 
-        {{ with .Site.Params.social.stackoverflow }}
+        {{- with .Site.Params.social.stackoverflow -}}
         <li>
         <a href="{{ . }}"  class="stackoverflow" target="_blank">
             <i class="fa fa-stack-overflow" title="stackoverflow"></i>
@@ -89,7 +89,7 @@
         {{end}}
 
 
-        {{ with .Site.Params.social.github }}
+        {{- with .Site.Params.social.github -}}
         <li>
         <a href="{{ . }}"  class="github" target="_blank">
             <i class="fa fa-github" title="github"></i>
