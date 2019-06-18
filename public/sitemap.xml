@@ -1,92 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>//www.tyronw.com/post/the_register/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/post/sp_global/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/post/jha_recruitment/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/post/html-css_ice-cream/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/categories/css/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/categories/html/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/categories/jquery/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/categories/js/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/post/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/resume/</loc>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/categories/sass/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//www.tyronw.com/categories/wordpress/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+	<url>
+		<loc>https://tyron.dev/</loc>
+	<lastmod>2019-06-18T10:21:39+00:00</lastmod>
+	<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://tyron.dev/categories/css</loc>
+		<lastmod>2019-06-18T10:21:39+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://tyron.dev/categories/html</loc>
+		<lastmod>2019-06-18T10:21:39+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+	<loc>https://tyron.dev/categories/jquery</loc>
+		<lastmod>2019-06-18T10:21:39+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://tyron.dev/categories/js</loc>
+		<lastmod>2019-06-18T10:21:39+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://tyron.dev/categories/sass</loc>
+		<lastmod>2019-06-18T10:21:39+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://tyron.dev/categories/wordpress</loc>
+		<lastmod>2019-06-18T10:21:39+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+</urlset> 
