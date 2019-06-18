@@ -1,6 +1,6 @@
 baseURL = "https://www.tyron.dev"
 publishDir = "public"
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "Tyron Wytrykowski"
 theme = "nederburg"
 googleAnalytics = "UA-100856759-1"
@@ -13,7 +13,7 @@ paginate = 5 #frontpage pagination
   slogan = "Front-end Developer & Graphic Designer"
   description = "With over 8 years of experience conceptualising and designing various print and digital media, as well as 5 years experience developing, building and maintaining complex websites." # meta description
   copyright = [
-    "&copy; 2018 Tyron Wytrykowski"
+    "&copy; 2019 Tyron Wytrykowski"
   ]
 
 
