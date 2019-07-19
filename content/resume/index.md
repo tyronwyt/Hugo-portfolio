@@ -57,7 +57,7 @@ CTU Training Solutions Certificate of Excellence 2011 <br/>
 
 - Sole Frontend developer maintaining and developing new features for the website
 - Using tools such as VWO and HotJar to optimise user interaction and website conversions
-- Based on the companies CMS of choice Umraco, build reusable code and libraries for future use following best web standards
+- Based on the companies CMS of choice Umbraco, build reusable code and libraries for future use following best web standards
 - Optimise existing code for best practice and performance and also ensuring scalability
 - Collaborate with the directors and marketing to design and build new features
 - Wireframe and mockup new designs based on good UX/UI standards
