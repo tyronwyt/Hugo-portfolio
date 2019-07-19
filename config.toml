@@ -10,7 +10,7 @@ preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
 [params]
-  slogan = "Front-end Developer & Graphic Designer"
+  slogan = "Frontend Developer & Graphic Designer"
   description = "With over 8 years of experience conceptualising and designing various print and digital media, as well as 5 years experience developing, building and maintaining complex websites." # meta description
   copyright = [
     "&copy; 2019 Tyron Wytrykowski"
