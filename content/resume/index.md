@@ -2,8 +2,8 @@
 title = "Resume"
 email = "tyronwyt@gmail.com"
 mobile = "077 0848 4048"
-portfolio_url = "http://www.tyronw.com"
-portfolio_name = "www.tyronw.com"
+portfolio_url = "http://www.tyron.dev"
+portfolio_name = "www.tyron.dev"
 +++
 
 ## About me
