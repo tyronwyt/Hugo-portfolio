@@ -8,17 +8,17 @@ portfolio_name = "www.tyronw.com"
 
 ## About me
 
-With over 8 years of experience conceptualising and designing various print and digital media, as well as 5 years experience developing, building and maintaining complex websites. I have helped companies reach their goals in various industries such as advertising, media and financial sectors. When I am not building websites and learning new things, I am tinkering away with my 3d printer and make things. Using my strong background in design, I enjoy bringing creativity into the development process and I am always keen to learn more as well as share my knowledge along the way.
+With over 8 years of experience conceptualising and designing various print and digital media, as well as 5 years experience developing, building and maintaining complex websites. I have helped companies reach their goals in various industries such as advertising, media, and financial sectors. When I am not building websites and learning new things, I am tinkering away with my 3d printer and make things. Using my strong background in design, I enjoy bringing creativity into the development process and I am always keen to learn more as well as share my knowledge along the way.
 
 ## Skills
 
 **Technical** <br/>
 HTML/CSS, Vanilla JavaScript, jQuery, SASS, Bootstrap <br/>
 Basic React, Gatsby.Js, Node, Express<br/>
-Familiar with tools like Git, Command Line, MongoDB
+Familiar with tools like Git, Command-Line, MongoDB
 
 **Design** <br/>
-Adobe Creative Suite, Balsamiq wireframe mockups, UX and UI designing, Web Optimisation, Branding, Print and Digital design.
+Adobe Creative Suite, Balsamiq wireframe mockups, UX and UI designing, Web Optimisation, Branding, Print, and Digital design.
 
 ## Education and Achievements
 
@@ -76,11 +76,11 @@ CTU Training Solutions Certificate of Excellence 2011 <br/>
 
 ###### Frontend Developer & Graphic Designer | June 2015 — November 2017
 
-- Develop and design of responsive HTML, CSS, & JS landing page templates, to be reused within in the companies CRM
-  for a wide range of client facing marketing campaigns and build and development of HTML responsive lead generation pages.
+- Develop and design of responsive HTML, CSS, & JS landing page templates, to be reused within the companies CRM
+  for a wide range of client-facing marketing campaigns and build and development of HTML responsive lead generation pages.
 - Develop and design of dynamic major account client resource web pages following companies style guides and updated branding. These pages had shared content that is automatically updated within the CRM and replicated on each page.
-- Developing, designing and testing of HTML email templates using the latest technologies, making sure they look the same on all major email clients, for use in internal communications and client facing marketing campaigns.
-- Creating conference event pages using XML, HTML, CSS and JavaScript and uploaded to the companies CMS platform.
+- Developing, designing and testing of HTML email templates using the latest technologies, making sure they look the same on all major email clients, for use in internal communications and client-facing marketing campaigns.
+- Creating conference event pages using XML, HTML, CSS, and JavaScript and uploaded to the companies CMS platform.
 - Design a wide range of marketing material from brochures, flyers, event signage and conference booths to web ads, internal process documents and guides.
 
 #### Good Livin’ Publication
@@ -90,7 +90,7 @@ CTU Training Solutions Certificate of Excellence 2011 <br/>
 - Work with marketers and clients to design print advertisements for publishing in a monthly magazine.
 - Monthly magazine layout design and proof. Liaise with printers to schedule print and distribution.
 - Design, develop and maintain client WordPress websites
-  as well as companies website.
+  as well as company websites.
 - Design all marketing material and signage and assist managing all marketing as hosts of an annual
   lifestyle conference.
 
