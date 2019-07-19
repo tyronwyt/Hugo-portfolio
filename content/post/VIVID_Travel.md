@@ -6,7 +6,7 @@ image = "img/portfolio/VIVID-Travel.jpg"
 imagesmall = "img/portfolio/sml/VIVID-Travel_sml.jpg"
 showonlyimage = false
 categories = [ "html", "css", "sass", "js", "jquery"]
-weight = 2
+weight = 1
 pageLink = "http://vivid.travel"
 +++
 
